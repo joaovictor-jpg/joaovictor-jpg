@@ -1,6 +1,5 @@
 ### Olá, Eu sou João Victor 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 Estudando Java
 - 📫Contate-me no email: joaovictormdasilva676@gmail.com
 
