@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
-- 🌱 I’m currently learning **Java with Microservices and APT REST**
+- 🌱 I’m currently learning **C# MVC, APIREST ou JAVA APIREST**
 
-- 💬 Ask me about **JAVA, SQL, GIT, HTML, CSS, JAVA**
+- 💬 Ask me about **C#, ASP.NET, JAVA, SPRING BOOT, SQL, GIT, HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **joaovictormdasilva676@gmail.com**
 
