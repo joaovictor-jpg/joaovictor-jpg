@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm João victor</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate Front-end from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET, JAVA AND SPRING BOOT**
+- 🌱 I’m currently learning **HTML, CSS, JAVASERVE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
-- 💬 Ask me about **C#, ASP.NET, JAVA, SPRING BOOT, SQL, GIT, HTML, CSS, JAVA**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **joaovictormdasilva676@gmail.com**
 
