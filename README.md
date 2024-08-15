@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João victor</h1>
+<h1 align="center">Hi, I'm João victor</h1>
 <h3 align="center">A passionate Front-end from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
