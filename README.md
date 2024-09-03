@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
--  I’m currently learning **HTML, CSS, JAVASERVE**
+-  I’m currently learning **HTML, CSS, JAVASERVE, REACT.js**
 
 -  All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
--  Ask me about **HTML, CSS, JAVASCRIPT**
+-  Ask me about **HTML, CSS, JAVASCRIPT, React.js**
 
 -  How to reach me **joaovictormdasilva676@gmail.com**
 
