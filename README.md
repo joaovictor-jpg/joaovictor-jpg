@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
--  I’m currently learning **HTML, CSS, JAVASERVE, REACT.js, Node.js**
+-  I’m currently learning **HTML, CSS, JAVASERVE, REACT.js, Node.js, Express**
 
 -  All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
--  Ask me about **HTML, CSS, JAVASCRIPT, REACT.js, Node.js**
+-  Ask me about **HTML, CSS, JAVASCRIPT, REACT.js, Node.js, Express**
 
 -  How to reach me **joaovictormdasilva676@gmail.com**
 
@@ -36,8 +36,12 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
