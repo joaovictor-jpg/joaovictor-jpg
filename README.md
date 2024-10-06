@@ -7,7 +7,7 @@
 
 -  All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
--  Ask me about **HTML, CSS, JAVASCRIPT, REACT.js, Node.js, Express**
+-  Ask me about **HTML, CSS, JAVASCRIPT, REACT.js, Node.js, Express, Docker**
 
 -  How to reach me **joaovictormdasilva676@gmail.com**
 
