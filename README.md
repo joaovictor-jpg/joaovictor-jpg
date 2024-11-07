@@ -1,54 +1,45 @@
 <h1 align="center">Hi, I'm João victor</h1>
-<h3 align="center">A passionate Front-end from Brazil</h3>
+<h3 align="center">Desenvolvedor Full-stack com Foco em Back-end | Node.js e APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
--  I’m currently learning **HTML, CSS, JAVASERVE, TypeScript, REACT.js, Node.js, Express**
+<p>Sou um desenvolvedor full-stack focado em criar soluções escaláveis com Node.js, Docker e APIs RESTful, além de experiência em frontend com React. Apaixonado por resolver problemas e aplicar as melhores práticas de desenvolvimento.</p>
+
+- I’m currently learning advanced concepts in **Node.js**, **Docker**, **TypeScript**, and exploring serverless architectures with **AWS Lambda**.
 
 -  All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
--  Ask me about **HTML, CSS, JAVASCRIPT, TypeScript, REACT.js, Node.js, Express, Docker**
+### Projetos em Destaque:
+- [**API Livraria**](https://github.com/joaovictor-jpg/Node.js/tree/main/2969-workflow-dev-aula5-chore-unleash-setup): API RESTful para gerenciamento de livros, autores e editoras usando Node.js, Docker, PostgreSQL, Jest e Mocha.
+- [**Serverless AWS**](https://github.com/joaovictor-jpg/Node.js/blob/main/2753-serverless-node/README.md): Projeto serverless desenvolvido com AWS Lambda e MongoDB, demonstrando habilidades em escalabilidade e arquitetura distribuída.
 
--  How to reach me **joaovictormdasilva676@gmail.com**
+- 📫 Como entrar em contato: **joaovictormdasilva676@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Curiosidade: Além de programar, sempre busco tornar o ambiente de trabalho leve e criativo!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joãovictorperfil" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-victor-5a412920a/" height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/joãovictorperfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-</p>
+#### Linguagens
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+#### Frameworks & Bibliotecas
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### Ferramentas & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictor-jpg&show_icons=true&locale=en&layout=compact" alt="joaovictor-jpg" /></p>
 
