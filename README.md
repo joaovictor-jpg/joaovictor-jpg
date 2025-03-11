@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm João victor</h1>
-<h3 align="center">Desenvolvedor Full-stack com Foco em Back-end | Node.js e APIs</h3>
+<h3 align="center">Desenvolvedor Full-stack com Foco em Back-end | JAVA e APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovictor-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="joaovictor-jpg" /> </p>
 
-<p>Sou um desenvolvedor full-stack focado em criar soluções escaláveis com Node.js, Docker e APIs RESTful, além de experiência em frontend com React. Apaixonado por resolver problemas e aplicar as melhores práticas de desenvolvimento.</p>
+<p>Sou um desenvolvedor full-stack focado em criar soluções escaláveis com Java, Docker e APIs RESTful, além de experiência em frontend com React. Apaixonado por resolver problemas e aplicar as melhores práticas de desenvolvimento.</p>
 
-- I’m currently learning advanced concepts in **Node.js**, **Docker**, **TypeScript**, and exploring serverless architectures with **AWS Lambda**.
+- I’m currently learning advanced concepts in **Java**, **Docker**, **TypeScript**, and exploring serverless architectures with **AWS Lambda**.
 
 -  All of my projects are available at [https://github.com/joaovictor-jpg](https://github.com/joaovictor-jpg)
 
